@@ -1,5 +1,9 @@
 '''Intro to Python'''
 
+# Print function
+
+print ('Hello World!')
+
 # Python Math
 
 x = 6
@@ -18,6 +22,7 @@ v = x**3 #Exponential
 print(v)
 
 # IF Statement
+
 i = 20
 j = 10
 
